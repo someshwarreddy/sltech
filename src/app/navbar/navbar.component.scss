@@ -12,6 +12,10 @@
   }
 }
 
+.bg-dark {
+  background-color: #1d3557!important;
+}
+
 .b-example-divider {
   width: 100%;
   height: 3rem;
@@ -74,9 +78,10 @@
 .bd-mode-toggle .dropdown-menu .active .bi {
   display: block !important;
 }
+
 .logo {
   height: 60px;
-  width:60px;
+  width: 60px;
 }
 
 img {
