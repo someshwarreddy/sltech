@@ -1,0 +1,25 @@
+.top {
+    text-decoration: none;
+}
+
+.skills-strip {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.skills-strip-items {
+    flex: 1 0 auto;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 0.5rem;
+    padding: 0.3rem;
+    background-color: #5f6368;
+    border-radius: 5px;
+    color: #f6f2f2;
+}
+
+.skills-strip-items a {
+    color: #ffffff;
+    text-decoration: none;
+}
